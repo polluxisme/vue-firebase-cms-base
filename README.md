@@ -10,3 +10,5 @@ $ npm install
 $ firebase init
 
 Update firebase settings in main.js
+
+dummy
